@@ -1,4 +1,5 @@
  👋 Hi there! I'm Shadreck Mkandawire
+ 
 I'm a student at the University of Malawi (UNIMA) pursuing a BSc in Computer Science, and a Full-stack Developer with strong experience building real-world client projects.
 
 I specialize in Next.js, Nest.js, FastAPI, Appwrite, React Native, Flutter and Kotlin, and I’m also a specialist UI/UX & Graphic Designer and Software Developer. I enjoy transforming client requirements into high-performance digital products with clean architecture and modern design.

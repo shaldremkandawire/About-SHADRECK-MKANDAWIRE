@@ -33,7 +33,6 @@ Here are some of the systems, websites, and apps I’ve developed:
 *  SimpSoft Technologies — [https://simpsofttechnologiesmw.live](https://simpsofttechnologiesmw.live)
 *  Chemusa Online — [https://chemusaonline.vercel.app](https://chemusaonline.vercel.app)
 *  Cannas Gallery — [https://cannasgallery.netlify.app](https://cannasgallery.netlify.app)
-*  Zipite Delivery Platform — [https://zipite.netlify.app](https://zipite.netlify.app)
 *  AllyCorp International — [https://allycorpinternational.com](https://allycorpinternational.com)
 *  HC One Group — [https://hconegroup.org](https://hconegroup.org)
 *  BodyandbathZW - [https://bathandbodyzw.com](https://bathandbodyzw.com)

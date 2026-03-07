@@ -1,4 +1,4 @@
- 👋 Hi there! I'm Shadreck Mkandawire
+Hi there! I'm Shadreck Mkandawire
  
 I'm a student at the University of Malawi (UNIMA) pursuing a BSc in Computer Science, and a Full-stack Developer with strong experience building real-world client projects.
 

@@ -45,6 +45,7 @@ Here are some of the systems, websites, and apps I’ve developed:
 *  QUAPO Delivery-app : https://www.figma.com/proto/x97lAyreUXdVD4BI20idIk/HCI?node-id=1-3&t=UtGkfA3UuXVtX28l-1
 *  CAKE-WEBAPP UI/UX : https://www.figma.com/proto/1ztV2QU0xqwfxh7Eniw0pq/HCI-exams?node-id=0-1&t=QEW8VRYl8hBXw57b-1
 *  Boma-Loyera : [https://boma-loyera.online/](https://boma-loyera.online/)
+*  IT Company Profile : [https://techpactsystems.netlify.app/](https://techpactsystems.netlify.app/)
 *  Velori - Finances :  [https://velorifinances.com/](https://velorifinances.com)
 *  Online Streaming App : [https://zone3-streaming-online.netlify.app//](https://zone3-streaming-online.netlify.app/)
 *  Warmheartstaybnb :  [https://warmheartstaybnb.site//](https://warmheartstaybnb.site/)

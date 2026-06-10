@@ -26,6 +26,10 @@ Current Focus
 
 Projects I've Worked On
 Here are some of the systems, websites, and apps I’ve developed:
+*  Mobile Diagnosis System - IoT & ICHIS Integration(University of Malawi) — [Githublink:]((https://github.com/MCHIHANA/DHIS2-iCHIS-CUSTOMIZED-APPLICATION.git))
+*  Velori - Finances :  [https://velorifinances.com/](https://velorifinances.com)
+*  Boma-Loyera : [https://boma-loyera.online/](https://boma-loyera.online/)
+*  BodyandbathZW - [https://bathandbodyzw.com](https://bathandbodyzw.com)
 *  Mulanji Border Institute — [https://mulanjeborderinstitute.netlify.app](https://mulanjeborderinstitute.netlify.app)
 *  Aonenawo — [https://aonenawo.netlify.app](https://aonenawo.netlify.app)
 *  Quapo-Tech — [https://quapotech.netlify.app](https://quapotech.netlify.app)
@@ -35,7 +39,6 @@ Here are some of the systems, websites, and apps I’ve developed:
 *  Cannas Gallery — [https://cannasgallery.netlify.app](https://cannasgallery.netlify.app)
 *  AllyCorp International — [https://allycorpinternational.com](https://allycorpinternational.com)
 *  HC One Group — [https://hconegroup.org](https://hconegroup.org)
-*  BodyandbathZW - [https://bathandbodyzw.com](https://bathandbodyzw.com)
 *  ProdraftSolution - [https://prodraftsolutions.tech](https://prodraftsolutions.tech)
 *  AMUZE AI - [https://amuse-ai.netlify.app](https://amuse-ai.netlify.app)
 *  EDUVIBE - [https://educationvibe.netlify.app](https://educationvibe.netlify.app)
@@ -44,9 +47,7 @@ Here are some of the systems, websites, and apps I’ve developed:
 *  Plans-international UI/UX : https://www.figma.com/proto/Oo1SoOmr9ntWolC7fNvz9S/The-Plan-International?node-id=0-1&t=UtGkfA3UuXVtX28l-1
 *  QUAPO Delivery-app : https://www.figma.com/proto/x97lAyreUXdVD4BI20idIk/HCI?node-id=1-3&t=UtGkfA3UuXVtX28l-1
 *  CAKE-WEBAPP UI/UX : https://www.figma.com/proto/1ztV2QU0xqwfxh7Eniw0pq/HCI-exams?node-id=0-1&t=QEW8VRYl8hBXw57b-1
-*  Boma-Loyera : [https://boma-loyera.online/](https://boma-loyera.online/)
 *  IT Company Profile : [https://techpactsystems.netlify.app/](https://techpactsystems.netlify.app/)
-*  Velori - Finances :  [https://velorifinances.com/](https://velorifinances.com)
 *  Online Streaming App : [https://zone3-streaming-online.netlify.app//](https://zone3-streaming-online.netlify.app/)
 *  Warmheartstaybnb :  [https://warmheartstaybnb.site//](https://warmheartstaybnb.site/)
 *  SDIH Youths :  [https://sdihub.netlify.app//](https://sdihub.netlify.app/)

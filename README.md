@@ -26,9 +26,9 @@ Current Focus
 
 Projects I've Worked On
 Here are some of the systems, websites, and apps I’ve developed:
-*  Mobile Diagnosis System - IoT & ICHIS Integration(University of Malawi) — [https://github.com/MCHIHANA/DHIS2-iCHIS-CUSTOMIZED-APPLICATION.git]((https://github.com/MCHIHANA/DHIS2-iCHIS-CUSTOMIZED-APPLICATION.git))
-*  Velori - Finances :  [https://velorifinances.com/](https://velorifinances.com)
-*  Boma-Loyera : [https://boma-loyera.online/](https://boma-loyera.online/)
+*  Mobile Diagnosis System - IoT & ICHIS Integration(University of Malawi) — [https://github.com/MCHIHANA/DHIS2-iCHIS-CUSTOMIZED-APPLICATION.git](github.com/MCHIHANA/DHIS2-iCHIS-CUSTOMIZED-APPLICATION.git)
+*  Velori - Finances :  [https:/velorifinances.com](https://velorifinances.com)
+*  Boma-Loyera : [https://boma-loyera.online](https://boma-loyera.online/)
 *  BodyandbathZW - [https://bathandbodyzw.com](https://bathandbodyzw.com)
 *  Mulanji Border Institute — [https://mulanjeborderinstitute.netlify.app](https://mulanjeborderinstitute.netlify.app)
 *  Aonenawo — [https://aonenawo.netlify.app](https://aonenawo.netlify.app)

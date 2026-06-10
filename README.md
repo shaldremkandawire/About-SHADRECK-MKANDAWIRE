@@ -22,7 +22,7 @@ Skills & Expertise
 
 Current Focus
 * Backend Development
-* Machine Learning & Artificial Intelligence 
+* Machine Learning & Artificial Intelligence
 
 Projects I've Worked On
 Here are some of the systems, websites, and apps I’ve developed:
@@ -30,6 +30,7 @@ Here are some of the systems, websites, and apps I’ve developed:
 *  Velori - Finances :  [https:/velorifinances.com](https://velorifinances.com)
 *  Boma-Loyera : [https://boma-loyera.online](https://boma-loyera.online/)
 *  BodyandbathZW - [https://bathandbodyzw.com](https://bathandbodyzw.com)
+*  VERIFY AID :  [VERIFY AID - MOBILE & WEB DASHBOARDS](https://aidverify.netlify.app) 
 *  Mulanji Border Institute — [https://mulanjeborderinstitute.netlify.app](https://mulanjeborderinstitute.netlify.app)
 *  Aonenawo — [https://aonenawo.netlify.app](https://aonenawo.netlify.app)
 *  Quapo-Tech — [https://quapotech.netlify.app](https://quapotech.netlify.app)

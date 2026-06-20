@@ -41,7 +41,6 @@ Here are some of the systems, websites, and apps I’ve developed:
 *  AllyCorp International — [https://allycorpinternational.com](https://allycorpinternational.com)
 *  HC One Group — [https://hconegroup.org](https://hconegroup.org)
 *  ProdraftSolution - [https://prodraftsolutions.tech](https://prodraftsolutions.tech)
-*  AMUZE AI - [https://amuse-ai.netlify.app](https://amuse-ai.netlify.app)
 *  EDUVIBE - [https://educationvibe.netlify.app](https://educationvibe.netlify.app)
 *  Prodraft Solutions Project - [https://mercynhopecare.netlify.app](https://mercynhopecare.netlify.app)
 *  Prodraft Solutions Project - [https://tax-collector-webapp.netlify.app](https://tax-collector-webapp.netlify.app)
@@ -49,8 +48,8 @@ Here are some of the systems, websites, and apps I’ve developed:
 *  QUAPO Delivery-app : https://www.figma.com/proto/x97lAyreUXdVD4BI20idIk/HCI?node-id=1-3&t=UtGkfA3UuXVtX28l-1
 *  CAKE-WEBAPP UI/UX : https://www.figma.com/proto/1ztV2QU0xqwfxh7Eniw0pq/HCI-exams?node-id=0-1&t=QEW8VRYl8hBXw57b-1
 *  IT Company Profile : [https://techpactsystems.netlify.app/](https://techpactsystems.netlify.app/)
-*  Online Streaming App : [https://zone3-streaming-online.netlify.app//](https://zone3-streaming-online.netlify.app/)
 *  Warmheartstaybnb :  [https://warmheartstaybnb.site//](https://warmheartstaybnb.site/)
 *  SDIH Youths :  [https://sdihub.netlify.app//](https://sdihub.netlify.app/)
 *  LusoCreative App :  [https://lusocreative.art//](lusocreative.art/)
+*  Algohost EA :  [https://algohost-ea.netlify.app//](algohost-ea.netlify.app/)
 

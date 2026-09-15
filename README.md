@@ -52,5 +52,4 @@ Here are some of the systems, websites, and apps I’ve developed:
 *  IT Company Profile : [https://techpactsystems.netlify.app/](https://techpactsystems.netlify.app/)
 *  Warmheartstaybnb :  [https://warmheartstaybnb.site//](https://warmheartstaybnb.site/)
 *  SDIH Youths :  [https://sdihub.netlify.app//](https://sdihub.netlify.app/)
-*  Algohost EA :  [https://algohost-ea.netlify.app//](algohost-ea.netlify.app/)
 
